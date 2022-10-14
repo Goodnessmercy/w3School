@@ -48,27 +48,27 @@ html,body{
     justify-content: space-around;
 }
 
-.active {
+/* .active {
     height: 100%;
   
 }
 
 .active:hover {
-    /* height: 100%; */
+  
     background-color: #000000;
 }
 
 .activeS {
     height: 100%;
   
-    /* padding-top: 13px; */
+   
     padding-left: 13px;
     padding-right: 13px;
 }
   
 .activeS:hover {
     background-color: #000000;
-}
+} */
 
 .html{
     background-color: #04aa6d;
@@ -95,6 +95,7 @@ html,body{
     align-items: center;
     font-size: 12px !important;
 }
+
 
 
 
